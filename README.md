@@ -23,3 +23,5 @@ The dashboard combines the visualizations to provide a country-wise comparison o
 ## Files
 - `Global_Fuel_Prices_Final.twbx`: Packaged Tableau workbook
 - `screenshots/`: Dashboard screenshots
+- demo link - https://drive.google.com/file/d/1_31TgS7FxfepMjyrRgFiGn3Vz--DaWka/view?usp=drive_link
+- project link - https://public.tableau.com/app/profile/vivek.prajapat4736/viz/Global_Fuel_Prices_Final/Globalfuelpricesstory
